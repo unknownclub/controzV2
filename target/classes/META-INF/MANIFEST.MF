@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: controz
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: anuwatk
+Implementation-Vendor-Id: com.anuwk
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/controz
+Created-By: Maven Integration for Eclipse
+
